@@ -25,17 +25,17 @@ check1();
 //method 2 (using for loop)
 
 
-function check2(){
+// function check2(){
 
-    let count={}
+//     let count={}
 
-    for (let index = 0; index < num.length; index++) {
+//     for (let index = 0; index < num.length; index++) {
        
-        if(count[num[index]]){
-            count[num[i]]=count[num[index]]
-        }
+//         if(count[num[index]]){
+//             count[num[i]]=count[num[index]]
+//         }
 
         
-    }
+//     }
 
-}
+// }
